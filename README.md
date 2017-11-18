@@ -1,3 +1,3 @@
 # notepad_stuff
 notepad stuff
-open in:
+to play download the snake game bat file
